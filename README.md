@@ -1,2 +1,0 @@
-# EShopMicroservices
-E-Commerce Project
