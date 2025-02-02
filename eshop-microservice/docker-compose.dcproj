@@ -15,5 +15,17 @@
     </None>
     <None Include="docker-compose.yml" />
     <None Include=".dockerignore" />
+    <None Include="Products\CreateProduct\CreateProductEndpoint.cs" />
+    <None Include="Products\CreateProduct\CreateProductHandler.cs" />
+    <None Include="Products\DeleteProduct\DeleteProductEndpoint.cs" />
+    <None Include="Products\DeleteProduct\DeleteProductHandler.cs" />
+    <None Include="Products\GetProductByCategory\GetProductByCategoryEndpoint.cs" />
+    <None Include="Products\GetProductByCategory\GetProductByCategoryHandler.cs" />
+    <None Include="Products\GetProductById\GetProductByIdEndpoint.cs" />
+    <None Include="Products\GetProductById\GetProductByIdHandler.cs" />
+    <None Include="Products\GetProducts\GetProductHandler.cs" />
+    <None Include="Products\GetProducts\GetProductsEndpoints.cs" />
+    <None Include="Products\UpdateProduct\UpdateProductEndpoint.cs" />
+    <None Include="Products\UpdateProduct\UpdateProductHandler.cs" />
   </ItemGroup>
 </Project>
